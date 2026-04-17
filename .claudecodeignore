@@ -1,0 +1,7 @@
+.git/
+.cache/
+.make/
+node_modules/
+*.log
+*.tmp
+Archive/
